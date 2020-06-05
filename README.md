@@ -5,11 +5,11 @@ This is a project that has a positive impact on society. **Be the Hero** is an a
 
 ### Technologies used:
 
- *JavaScript
- *ReactJS
- *NodeJS
- *React Native
- *SQLite Database
+ * JavaScript
+ * ReactJS
+ * NodeJS
+ * React Native
+ * SQLite Database
 
 ### Interface Web:
 
